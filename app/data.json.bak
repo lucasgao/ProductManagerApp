@@ -1,0 +1,7 @@
+{
+ ProductId:1,
+  ProductName:"iphone",
+  Price:799,
+  Category:"mobile"
+
+}

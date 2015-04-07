@@ -1,0 +1,1 @@
+[{ productId: 1, productName: 'Sony', price: 100, category: 'Mobiles' }, { productId: 2, productName: 'Apple', price: 200, category: 'Mobile' }];
